@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bicky007&show_icons=true&locale=en" alt="bicky007" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bicky007&" alt="bicky007" /></p>
+
